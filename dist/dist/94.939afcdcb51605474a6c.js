@@ -1,0 +1,1 @@
+webpackJsonp([94],{"+8jq":function(e,n,a){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var i=a("cFIJ"),l=a("VU/8")(i.a,null,!1,null,null,null);l.options.__file="pages\\index\\tai-khoan\\index\\deal\\index.vue",n.default=l.exports},cFIJ:function(e,n,a){"use strict";n.a={middleware:function(e){(0,e.redirect)("/tai-khoan/deal/danh-sach")}}}});

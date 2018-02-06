@@ -1,0 +1,1 @@
+webpackJsonp([87],{"8cMb":function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var u=t("DJnc"),i=t("VU/8")(u.a,null,!1,null,null,null);i.options.__file="pages\\quan-tri\\index\\post\\index.vue",n.default=i.exports},DJnc:function(e,n,t){"use strict";n.a={middleware:function(e){(0,e.redirect)("/quan-tri/post/danh-sach")}}}});

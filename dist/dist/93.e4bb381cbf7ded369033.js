@@ -1,0 +1,1 @@
+webpackJsonp([93],{L5s1:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var i=t("cge4"),u=t("VU/8")(i.a,null,!1,null,null,null);u.options.__file="pages\\index\\tai-khoan\\index\\post\\index.vue",n.default=u.exports},cge4:function(e,n,t){"use strict";n.a={middleware:function(e){(0,e.redirect)("/quan-tri/post/danh-sach")}}}});

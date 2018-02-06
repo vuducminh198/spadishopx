@@ -1,0 +1,1 @@
+webpackJsonp([92],{"0yYz":function(e,n,i){"use strict";n.a={middleware:function(e){(0,e.redirect)("/tai-khoan/shop/danh-sach")}}},"2JQe":function(e,n,i){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var t=i("0yYz"),a=i("VU/8")(t.a,null,!1,null,null,null);a.options.__file="pages\\index\\tai-khoan\\index\\shop\\index.vue",n.default=a.exports}});

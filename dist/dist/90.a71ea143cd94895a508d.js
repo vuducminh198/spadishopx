@@ -1,0 +1,1 @@
+webpackJsonp([90],{OaOv:function(e,n,a){"use strict";n.a={middleware:function(e){(0,e.redirect)("/tai-khoan/chain/danh-sach")}}},"hBF+":function(e,n,a){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var i=a("OaOv"),t=a("VU/8")(i.a,null,!1,null,null,null);t.options.__file="pages\\quan-tri\\index\\chain\\index.vue",n.default=t.exports}});

@@ -1,0 +1,1 @@
+webpackJsonp([89],{Uiqi:function(e,n,i){"use strict";n.a={middleware:function(e){(0,e.redirect)("/quan-tri/coupon/danh-sach")}}},WbiO:function(e,n,i){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var u=i("Uiqi"),t=i("VU/8")(u.a,null,!1,null,null,null);t.options.__file="pages\\quan-tri\\index\\coupon\\index.vue",n.default=t.exports}});

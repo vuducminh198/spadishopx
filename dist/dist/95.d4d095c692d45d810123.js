@@ -1,0 +1,1 @@
+webpackJsonp([95],{DgD9:function(e,n,u){"use strict";n.a={middleware:function(e){(0,e.redirect)("/quan-tri/coupon/danh-sach")}}},"nJ4/":function(e,n,u){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var i=u("DgD9"),t=u("VU/8")(i.a,null,!1,null,null,null);t.options.__file="pages\\index\\tai-khoan\\index\\coupon\\index.vue",n.default=t.exports}});

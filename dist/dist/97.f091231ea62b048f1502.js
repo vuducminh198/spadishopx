@@ -1,0 +1,1 @@
+webpackJsonp([97],{BbdF:function(n,e,i){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var t=i("licS"),a=i("VU/8")(t.a,null,!1,null,null,null);a.options.__file="pages\\index\\tai-khoan\\index\\ca-nhan\\index.vue",e.default=a.exports},licS:function(n,e,i){"use strict";e.a={middleware:function(n){(0,n.redirect)("/tai-khoan/ca-nhan/thong-tin")}}}});

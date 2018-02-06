@@ -1,0 +1,1 @@
+webpackJsonp([91],{EHrR:function(n,e,i){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var t=i("PXZi"),a=i("VU/8")(t.a,null,!1,null,null,null);a.options.__file="pages\\quan-tri\\index\\ca-nhan\\index.vue",e.default=a.exports},PXZi:function(n,e,i){"use strict";e.a={middleware:function(n){(0,n.redirect)("/tai-khoan/ca-nhan/thong-tin")}}}});
